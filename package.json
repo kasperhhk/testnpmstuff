@@ -1,0 +1,20 @@
+{
+  "name": "testnpmstuff",
+  "version": "0.1.0",
+  "description": "test npm stuff",
+  "main": "dist/index.js",
+  "types": "dist/index.d.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kasperhhk/testnpmstuff.git"
+  },
+  "author": "kasperhhk",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kasperhhk/testnpmstuff/issues"
+  },
+  "homepage": "https://github.com/kasperhhk/testnpmstuff#readme"
+}
