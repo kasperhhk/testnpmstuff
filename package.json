@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/kasperhhk/testnpmstuff/issues"
   },
-  "homepage": "https://github.com/kasperhhk/testnpmstuff#readme"
+  "homepage": "https://github.com/kasperhhk/testnpmstuff#readme",
+  "devDependencies": {
+    "typescript": "^3.8.3"
+  }
 }
